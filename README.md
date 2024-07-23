@@ -62,3 +62,10 @@ Nest is [MIT licensed](LICENSE).
 - nest g app reservations
 
 - docker build ../../ -f Dockerfile -t sleepr_reservations
+
+- nest g app auth
+- nest g module users
+- pnpm i @nestjs/passport passport passport-local
+- pnpm i -D @types/passport-local
+- pnpm i @nestjs/jwt passport-jwt
+- pnpm i -D @types/passport-jwt
