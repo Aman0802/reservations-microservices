@@ -69,3 +69,4 @@ Nest is [MIT licensed](LICENSE).
 - pnpm i -D @types/passport-local
 - pnpm i @nestjs/jwt passport-jwt
 - pnpm i -D @types/passport-jwt
+- pnpm i @nestjs/microservices

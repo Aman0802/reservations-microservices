@@ -16,6 +16,5 @@ export class CreateReservationDto {
 
   @IsString()
   @IsNotEmpty()
-  m;
   invoiceId: string;
 }
